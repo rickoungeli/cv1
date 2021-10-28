@@ -1,0 +1,20 @@
+* {box-sizing: border-box;}
+body {
+  width: 980px;
+  margin: 0 auto;
+}
+nav {
+  background: #ddd;
+  padding: 10px;
+}
+ul.nav-ul {
+  width: 500px;
+  margin: 0 auto;
+}
+ul.nav-ul li {
+  list-style: none;
+  display: inline;
+  margin-right: 10px;
+  border-right: 1px solid;
+  padding-right: 10px;
+}
